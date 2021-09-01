@@ -1,0 +1,9 @@
+C:\Users\alega\source\repos\Learning\DesignPattern\bin\Debug\netcoreapp3.1\DesignPattern.deps.json
+C:\Users\alega\source\repos\Learning\DesignPattern\bin\Debug\netcoreapp3.1\DesignPattern.dll
+C:\Users\alega\source\repos\Learning\DesignPattern\bin\Debug\netcoreapp3.1\DesignPattern.pdb
+C:\Users\alega\source\repos\Learning\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.csproj.AssemblyReference.cache
+C:\Users\alega\source\repos\Learning\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.AssemblyInfoInputs.cache
+C:\Users\alega\source\repos\Learning\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.AssemblyInfo.cs
+C:\Users\alega\source\repos\Learning\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\alega\source\repos\Learning\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.dll
+C:\Users\alega\source\repos\Learning\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.pdb
